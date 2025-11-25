@@ -6,5 +6,5 @@ Project sederhana untuk mengecek kekuatan password berdasarkan panjang, kombinas
 
 - Input password
 - Analisis kekuatan: Weak / Medium / Strong
-- UI tema gelap (cyber style)
+- UI tema gelap
 - Menggunakan HTML, CSS, JavaScript, dan PHP (opsional)
